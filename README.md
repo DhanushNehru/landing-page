@@ -20,4 +20,12 @@ Run the dev server (hot reload)
 ```bash
 npm run dev
 ```
+------
 
+> Give this repo a ⭐ star on GitHub — it helps others discover the template!
+
+**Contributions welcome!**  
+Found a bug? Want to add a new section or improve the design?  
+Open an issue or submit a PR — we’d love your help making this template even better.
+
+Made with ❤️ for the indie hacker & startup community.
